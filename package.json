@@ -1,0 +1,23 @@
+{
+  "name": "video_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fal-ai/serverless-client": "^0.14.2",
+    "axios": "^1.7.7",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "elevenlabs": "^0.15.0",
+    "fs": "^0.0.1-security",
+    "groq-sdk": "^0.7.0",
+    "promises": "^0.2.5",
+    "util": "^0.12.5"
+  }
+}
